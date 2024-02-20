@@ -1,8 +1,9 @@
 import Signup from "./components/Signup"
 import Login from "./components/Login"
-
 import Register from "./components/Register"
 
+
+// using if else statements. ternary operator is below
 // let isUser = false
 
 // function renderComponent() {
@@ -24,8 +25,8 @@ function App() {
       {/* ternary operator */}
       {/* {isUser ? <Login /> : <Signup />}       */}
       {/* {renderComponent()} */}
-      {/* <Login />
-      <Signup /> */}
+      {/* <Login /> */}
+      {/* <Signup /> */}
     </div>
   )
 }
