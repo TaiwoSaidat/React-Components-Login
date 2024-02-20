@@ -1,3 +1,5 @@
-# A React App to practice Login, SignUp and Register Components
+# A React App to practice Login, SignUp and Register Pages using React Components
 
-![alt text](registerPage.png) ![alt text](signUpPage.png) ![alt text](logInPage.png)
+![](./registerPage.png)
+![](./signUpPage.png)
+![](./logInPage.png)
